@@ -1,0 +1,68 @@
+/* Navbar */
+.Navbar {
+    font-family: 'Press Start 2P', cursive;
+}
+
+
+
+/* INDEX PAGE */
+
+/* Carousel */
+.IndexCarousel img {
+    height: 70vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+/* ABOUT PAGE */
+
+/* Accordion */
+.Accordion {
+    font-family: 'Playfair Display', serif;
+    margin: auto;
+}
+
+.link {
+    background-color: #0dcaf0;
+    margin: auto;
+}
+
+
+/* CONTACT PAGE */
+
+/* Footer */
+.fa-twitter{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;}
+
+.fa-facebook{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;}
+
+.fa-youtube{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+}
+
+.fa-tiktok{
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+}
